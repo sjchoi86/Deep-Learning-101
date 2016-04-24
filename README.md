@@ -1,4 +1,4 @@
-#TensorFlow 101 Lectures
+#Deep Learning 101 Lectures
 
 ##Week1 
 1. Introduction to the Class
