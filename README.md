@@ -18,5 +18,6 @@
 2. Weakly supervised localization (class-activation map with global average pooling)
 
 ## Week4
-1. Recurrent Neural Network (+Long Short Term Memory)
+1. Recurrent Neural Network (+Long Short Term Memory) 
 2. Word Embedding (Word2Vec)
+3. Image Caption Generation 
