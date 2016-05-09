@@ -21,3 +21,15 @@
 1. Recurrent Neural Network (+Long Short Term Memory) 
 2. Word Embedding (Word2Vec)
 3. Image Caption Generation 
+
+## Week5
+1. Deep Q Learning
+2. Word Embedding (Word2Vec)
+3. Image Detection (R-CNN, Spatial Pyramid Pooling Net, Fast R-CNN, Faster R-CNN, and YOLO)
+4. Visual QnA
+
+## Week6
+1. Super Resolution
+2. Residual Learning (ResNet)
+3. VGG Net
+4. Fine-tuning with VGG Net
