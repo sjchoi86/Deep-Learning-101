@@ -1,4 +1,5 @@
-#Deep Learning 101 Lectures
+#Deep Learning Tutorials in 6 Weeks 
+This tutorials are for deep learning beginners. 
 
 ##Week1 
 1. Introduction to the Class
