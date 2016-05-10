@@ -1,5 +1,5 @@
-#Deep Learning Tutorials in 6 Weeks 
-These tutorials are for deep learning beginners which have been used in a Deep Learning and Computer Vision course. Hope these to be helpful for understanding what deep learning is and how it can be applied to various fields including computer vision, robotics, natural language processings, and so forth.  
+#Deep Learning Tutorials 
+These tutorials are for deep learning beginners which have been used in a six week Deep Learning and Computer Vision course. Hope these to be helpful for understanding what deep learning is and how it can be applied to various fields including computer vision, robotics, natural language processings, and so forth. 
 
 ##Week1 
 1. Introduction to the Class
