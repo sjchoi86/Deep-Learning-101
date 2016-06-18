@@ -34,3 +34,6 @@ These tutorials are for deep learning beginners which have been used in a six we
 2. Residual Learning (ResNet)
 3. VGG Net
 4. Fine-tuning with VGG Net
+5. Neural Style (texture synthesis + reconstruction)
+6. Adversarial Attack
+7. Generative Adversarial Network
